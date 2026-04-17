@@ -2,7 +2,6 @@
 
 A real-time battle companion app for **Pokémon Champions** (Nintendo Switch), built for competitive players who want live damage calculations, speed tiers, and field condition tracking during matches.
 
-![MetaMetric Screenshot](docs/screenshot.png)
 
 ---
 
